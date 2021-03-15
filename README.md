@@ -7,6 +7,7 @@ descision_learning.py trains and predicts using decision trees.
 adaboost.py trains and predicts using adaboost.
 
 to run the code:
+
 python3 main.py train data-file trained-model 'dt or ada'
 
 python3 main.py predict trained-model test-file
